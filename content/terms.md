@@ -1,6 +1,6 @@
 # Regulamin korzystania z aplikacji ATONI
 
-**Wersja 1.0 — 11 sierpnia 2026 r.**  
+**Wersja 1.0, 11 sierpnia 2026 r.**
 **Data wejścia w życie:** 11 sierpnia 2026 r.
 
 ## 1. Operator i kontakt
@@ -79,6 +79,7 @@
 2. Niektóre aktualizacje mogą być konieczne do dalszego korzystania. Brak aktualizacji systemu lub Aplikacji może ograniczyć jej działanie.
 3. Operator może zmienić lub wycofać funkcję, jeżeli jest to uzasadnione bezpieczeństwem, prawem, wymaganiami sklepów, zmianami technicznymi lub zakończeniem wsparcia, z poszanowaniem praw osób, które zakupiły Premium.
 4. Operator nie gwarantuje nieprzerwanego działania usług zależnych od Apple, Google, Expo, internetu ani urządzenia użytkownika.
+5. Dostępność może zostać ograniczona w państwie, w którym nie wdrożono lub nie potwierdzono jeszcze dodatkowych zabezpieczeń prawnych lub technicznych, w tym wymagań dotyczących potwierdzania wieku.
 
 ## 12. Zasady uczciwej i bezpiecznej rozgrywki
 
@@ -88,7 +89,7 @@
 
 ## 13. Reklamacje i wsparcie
 
-1. Reklamację można wysłać na **contact@atoni.app**. Powinna zawierać opis problemu, platformę, wersję Aplikacji i — jeżeli dotyczy zakupu — identyfikator zamówienia.
+1. Reklamację można wysłać na **contact@atoni.app**. Powinna zawierać opis problemu, platformę, wersję Aplikacji i, jeżeli dotyczy zakupu, identyfikator zamówienia.
 2. Operator odpowiada bez zbędnej zwłoki, a konsumentowi w terminie wymaganym przez właściwe prawo.
 3. Skorzystanie z procedury reklamacyjnej nie ogranicza praw użytkownika wobec Apple, Google ani właściwych organów ochrony konsumentów.
 
@@ -119,5 +120,6 @@
 ## 18. Relacja z warunkami sklepów
 
 1. Pobieranie i zakup podlegają również warunkom App Store lub Google Play.
-2. W przypadku aplikacji pobranej z App Store zastosowanie może mieć standardowa umowa licencyjna Apple, chyba że Operator skutecznie udostępni własną umowę EULA w App Store Connect.
-3. Apple i Google nie są stroną niniejszego Regulaminu w zakresie świadczeń Operatora, z wyjątkiem praw i obowiązków wynikających z ich własnych warunków oraz bezwzględnie obowiązującego prawa.
+2. W przypadku Aplikacji pobranej z App Store do licencji zastosowanie ma standardowa umowa licencyjna Apple, chyba że Operator skutecznie udostępni własną umowę EULA w App Store Connect. Niniejszy Regulamin uzupełnia tę umowę i nie zastępuje obowiązkowych warunków Apple.
+3. Za utrzymanie i wsparcie Aplikacji oraz rozpatrywanie roszczeń dotyczących produktu w zakresie wymaganym właściwym prawem odpowiada Operator, a nie Apple. Apple nie ma obowiązku świadczenia usług utrzymania ani wsparcia Aplikacji.
+4. Apple i Google nie są stroną niniejszego Regulaminu w zakresie świadczeń Operatora, z wyjątkiem praw i obowiązków wynikających z ich własnych warunków, właściwej umowy licencyjnej Apple oraz bezwzględnie obowiązującego prawa.

@@ -1,13 +1,13 @@
 # Polityka prywatności aplikacji ATONI
 
-**Wersja 1.0 — 11 sierpnia 2026 r.**  
+**Wersja 1.0, 11 sierpnia 2026 r.**
 **Data wejścia w życie:** 11 sierpnia 2026 r.
 
 ## 1. Administrator danych
 
 Administratorem danych związanych z ATONI jest **Marek Oczkowski**, prowadzący jednoosobową działalność gospodarczą pod adresem **ul. Dolnej Wsi 88, 44-100 Gliwice, Polska**, NIP: **9691596950** („Administrator”, „my”).
 
-Kontakt w sprawach prywatności: **contact@atoni.app**.  
+Kontakt w sprawach prywatności: **contact@atoni.app**.
 Kontakt ogólny: **contact@atoni.app**.
 
 ## 2. Najważniejsze zasady
@@ -63,7 +63,7 @@ W odniesieniu do osób w Europejskim Obszarze Gospodarczym, Wielkiej Brytanii i 
 | bezpieczeństwo, zapobieganie nadużyciom i obrona roszczeń | prawnie uzasadniony interes Administratora |
 | zapis lokalnego wyboru dotyczącego analityki | prawnie uzasadniony interes polegający na obsłudze ustawień Aplikacji |
 | marketingowe powiadomienia push | zgoda, którą można w każdej chwili wycofać |
-| odpowiedź na dobrowolny kontakt | wykonanie umowy, prawnie uzasadniony interes lub zgoda — zależnie od charakteru wiadomości |
+| odpowiedź na dobrowolny kontakt | wykonanie umowy, prawnie uzasadniony interes lub zgoda, zależnie od charakteru wiadomości |
 
 Wycofanie zgody nie wpływa na zgodność z prawem wcześniejszego przetwarzania.
 
@@ -71,28 +71,28 @@ Wycofanie zgody nie wpływa na zgodność z prawem wcześniejszego przetwarzania
 
 W zakresie niezbędnym do działania Aplikacji informacje mogą być powierzane lub udostępniane:
 
-- 650 Industries, Inc. (Expo), Google i Apple — utworzenie oraz techniczna obsługa dobrowolnych powiadomień;
-- Apple Distribution International Ltd. i właściwym podmiotom Apple — App Store, zakup, dystrybucja i diagnostyka sklepu;
-- Google Commerce Limited, Google Ireland Limited i właściwym podmiotom Google — Google Play, zakup i dystrybucja;
-- dostawcom hostingu strony atoni.app i poczty contact@atoni.app — w zakresie niezbędnym do utrzymania strony i obsługi korespondencji;
+- 650 Industries, Inc. (Expo), Google i Apple: utworzenie oraz techniczna obsługa dobrowolnych powiadomień;
+- Apple Distribution International Ltd. i właściwym podmiotom Apple: App Store, zakup, dystrybucja i diagnostyka sklepu;
+- Google Commerce Limited, Google Ireland Limited i właściwym podmiotom Google: Google Play, zakup i dystrybucja;
+- dostawcom hostingu strony atoni.app i poczty contact@atoni.app: w zakresie niezbędnym do utrzymania strony i obsługi korespondencji;
 - księgowości, doradcom prawnym, organom publicznym lub sądom, gdy jest to konieczne i zgodne z prawem.
 
 Apple i Google mogą działać jako odrębni administratorzy w zakresie własnych kont, sklepów, płatności i obowiązków prawnych. Pozostali dostawcy działają zgodnie z zakresem swoich usług i właściwymi warunkami przetwarzania danych.
 
 ## 6. Transfery międzynarodowe
 
-Google, Apple i ich podwykonawcy mogą przetwarzać informacje poza państwem użytkownika, w tym poza EOG, Wielką Brytanią lub Szwajcarią. Transfery są realizowane na podstawie mechanizmów przewidzianych prawem, takich jak decyzje stwierdzające odpowiedni stopień ochrony, Data Privacy Framework — jeżeli ma zastosowanie — lub standardowe klauzule umowne.
+Google, Apple i ich podwykonawcy mogą przetwarzać informacje poza państwem użytkownika, w tym poza EOG, Wielką Brytanią lub Szwajcarią. Transfery są realizowane na podstawie mechanizmów przewidzianych prawem, takich jak decyzje stwierdzające odpowiedni stopień ochrony, Data Privacy Framework, jeżeli ma zastosowanie, lub standardowe klauzule umowne.
 
 Usługi Expo, Apple i Google działają na globalnej infrastrukturze i nie wszystkie pozwalają wybrać wyłącznie europejską lokalizację przetwarzania.
 
 ## 7. Okresy przechowywania
 
-- dane lokalne — do ich usunięcia w Aplikacji, wyczyszczenia danych lub odinstalowania;
-- zewnętrzne dane analityczne — nie są zbierane w wersji 1.0;
-- dane powiadomień — przez czas aktywności instalacji i zgody; po wycofaniu zgody token jest usuwany lokalnie i wyrejestrowywany z naszej listy wysyłkowej, jeżeli został wcześniej na niej zapisany;
-- dane zakupu i rozliczeń — przez okres wymagany prawem podatkowym, rachunkowym, prawem konsumenckim i okresami przedawnienia;
-- korespondencja i reklamacje — przez czas obsługi, a następnie do końca właściwego okresu dochodzenia lub obrony roszczeń;
-- zapis zgody lub sprzeciwu — przez okres potrzebny do realizacji wyboru i wykazania zgodności z prawem.
+- dane lokalne: do ich usunięcia w Aplikacji, wyczyszczenia danych lub odinstalowania;
+- zewnętrzne dane analityczne: nie są zbierane w wersji 1.0;
+- dane powiadomień: przez czas aktywności instalacji i zgody; po wycofaniu zgody token jest usuwany lokalnie i wyrejestrowywany z naszej listy wysyłkowej, jeżeli został wcześniej na niej zapisany;
+- dane zakupu i rozliczeń: przez okres wymagany prawem podatkowym, rachunkowym, prawem konsumenckim i okresami przedawnienia;
+- korespondencja i reklamacje: przez czas obsługi, a następnie do końca właściwego okresu dochodzenia lub obrony roszczeń;
+- zapis zgody lub sprzeciwu: przez okres potrzebny do realizacji wyboru i wykazania zgodności z prawem.
 
 Po upływie okresu dane są usuwane, anonimizowane lub przechowywane wyłącznie wtedy, gdy wymaga tego prawo.
 
@@ -122,11 +122,13 @@ Nie sprzedajemy danych osobowych i na premierę nie udostępniamy ich do między
 
 W zakresie zastosowania LGPD użytkownik może w szczególności żądać potwierdzenia przetwarzania, dostępu, poprawienia, anonimizacji, blokowania lub usunięcia danych, informacji o udostępnianiu, przeniesienia w granicach prawa i wycofania zgody. Żądania można kierować na **contact@atoni.app**; użytkownik może również zwrócić się do ANPD.
 
+Dystrybucja w Brazylii może podlegać dodatkowym przepisom chroniącym dzieci i młodzież w środowisku cyfrowym, w tym wymaganiom dotyczącym potwierdzania wieku i kontroli rodzicielskiej. Mogą mieć zastosowanie zabezpieczenia zapewniane przez sklep lub urządzenie, a dostępność Aplikacji może być ograniczona do czasu potwierdzenia właściwego sposobu zapewnienia zgodności.
+
 ## 11. Osoby niepełnoletnie
 
 ATONI jest przeznaczone dla osób od 13. roku życia i nie jest kierowane do dzieci poniżej 13 lat. Nie zbieramy świadomie danych dziecka poniżej tego wieku. Jeżeli rodzic lub opiekun uważa, że takie dane zostały przetworzone, powinien skontaktować się z nami pod adresem **contact@atoni.app**.
 
-W państwach, w których osoba w wieku 13–17 lat potrzebuje zgody opiekuna na określone przetwarzanie lub zakup, użytkownik powinien uzyskać taką zgodę.
+W państwach, w których osoba w wieku 13–17 lat potrzebuje zgody opiekuna na określone przetwarzanie lub zakup, użytkownik powinien uzyskać taką zgodę. Osoba niepełnoletnia nie powinna włączać opcjonalnych powiadomień marketingowych bez zgody wymaganej w jej państwie.
 
 ## 12. Bezpieczeństwo
 
