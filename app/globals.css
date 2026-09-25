@@ -120,7 +120,8 @@ footer small { grid-column:1/-1; color:#72848e; }
   .hero-donkey { right:-13%; width:55%; }
   .hero-sticker { right:-3%; font-size:.95rem; }
   .section { padding:80px 22px; }
-  .section-heading h2,.feature-main h2,.premium h2,.final-cta h2 { font-size:3.35rem; }
+  .section-heading h2,.feature-main h2,.premium h2,.final-cta h2 { font-size:clamp(2.2rem,10.8vw,3.35rem); }
+  .section-heading h2 { max-width:100%; text-wrap:balance; }
   .steps { gap:18px; }
   .row-heading { display:block; }
   .feature-grid { grid-template-columns:1fr 1fr; }
