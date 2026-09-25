@@ -39,7 +39,10 @@ test("renders the ATONI landing page", async () => {
   const response = await render();
   assert.equal(response.status, 200);
   const html = await response.text();
-  assert.match(html, /<title>ATONI \| biblijny impostor<\/title>/i);
+  assert.match(html, /<title>ATONI – biblijna gra towarzyska<\/title>/i);
+  assert.match(html, /rel="canonical" href="https:\/\/atoni\.app"/i);
+  assert.match(html, /Biblijny impostor dla 3–12 osób/i);
+  assert.match(html, /rel="icon"[^>]+href="\/icon\.png"/i);
   assert.match(html, /Kto zna hasło/);
   assert.match(html, /450 biblijnych haseł/i);
   assert.match(html, /Polityka prywatności/);

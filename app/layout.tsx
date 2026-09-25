@@ -17,20 +17,36 @@ const pangolin = Pangolin({
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://atoni.app"),
-  title: { default: "ATONI | biblijny impostor", template: "%s | ATONI" },
-  description: "Biblijna gra towarzyska dla 3–12 osób. Jedna osoba nie zna hasła. Odkryjcie impostora, zanim on odkryje hasło.",
+  title: { default: "ATONI – biblijna gra towarzyska", template: "%s | ATONI" },
+  description: "Biblijny impostor dla 3–12 osób. Jedno hasło, jedna osoba bez odpowiedzi. Grajcie na jednym telefonie i odkryjcie, kto tylko dobrze udaje.",
   applicationName: "ATONI",
-  icons: { icon: "/icon.png", apple: "/icon.png" },
+  creator: "ATONI",
+  category: "games",
+  alternates: {
+    canonical: "/",
+    languages: { "x-default": "/", pl: "/", en: "/en", es: "/es" },
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1 },
+  },
+  icons: { icon: "/icon.png", shortcut: "/favicon.ico", apple: "/apple-icon.png" },
   openGraph: {
-    title: "ATONI | biblijny impostor",
-    description: "Jedno biblijne hasło. Jedna osoba bez odpowiedzi. Kto tylko dobrze udaje?",
+    title: "ATONI – biblijna gra towarzyska",
+    description: "Biblijny impostor dla 3–12 osób. Jedno hasło, jedna osoba bez odpowiedzi. Kto tylko dobrze udaje?",
     url: "https://atoni.app",
     siteName: "ATONI",
     locale: "pl_PL",
     type: "website",
     images: [{ url: "/og.png", width: 1536, height: 887, alt: "ATONI. Kto zna hasło? Biblijny impostor" }],
   },
-  twitter: { card: "summary_large_image", title: "ATONI | biblijny impostor", images: ["/og.png"] },
+  twitter: {
+    card: "summary_large_image",
+    title: "ATONI – biblijna gra towarzyska",
+    description: "Biblijny impostor dla 3–12 osób. Jedno hasło, jedna osoba bez odpowiedzi.",
+    images: ["/og.png"],
+  },
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
